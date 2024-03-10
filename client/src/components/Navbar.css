@@ -1,0 +1,13 @@
+
+.navbar-nav {
+  text-align: center;
+  flex-direction: column;
+}
+
+.navbar-nav {
+  flex-direction: row;
+}
+
+.navbar-nav .nav-item {
+  display: inline-block;
+}
